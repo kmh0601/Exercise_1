@@ -1,0 +1,5 @@
+git add name
+git commit -m "~"
+git push
+
+cd path
